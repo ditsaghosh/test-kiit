@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modified b file
+=======
+this is b file
+>>>>>>> car
+1
